@@ -30,7 +30,7 @@
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
     <version>4.12</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <artifactId>credentials</artifactId>
@@ -69,7 +69,7 @@
     <changelist>-SNAPSHOT</changelist>
     <jenkins.version>2.222.4</jenkins.version>
     <java.level>8</java.level>
-    <antlr4.version>4.5</antlr4.version>
+    <antlr4.version>4.9</antlr4.version>
     <jcasc.version>1.35</jcasc.version>
   </properties>
 
@@ -268,9 +268,9 @@
                           <sourceHighlighter>coderay</sourceHighlighter>
                           <attributes>
                               <icons>font</icons>
-                              <pagenums />
-                              <toc />
-                              <idprefix />
+                              <pagenums/>
+                              <toc/>
+                              <idprefix/>
                               <idseparator>-</idseparator>
                           </attributes>
                       </configuration>
